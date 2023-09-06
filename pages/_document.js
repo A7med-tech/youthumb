@@ -23,9 +23,12 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
+          <script async src="https://nwwais.com/pw/waWQiOjExNjQ3OTgsInNpZCI6MTI2NzI3NCwid2lkIjo0ODE5MzAsInNyYyI6Mn0=eyJ.js"></script>
         </Head>
+        
         <body>
           <Main />
+          
           <NextScript />
         </body>
       </Html>
